@@ -50,7 +50,7 @@ normal: "MMUAHHH:33!" // Shows when they go past 100%
 // Messages that appear after they say "Yes!"
 celebration: {
 title: "Hihh mä oon oikeesti onnekkainn niinku hihi:333 💓💓💓😘😘🥹🥹",
-message: "Nyt tuu hakee sun tälläi etälahja, eli iiiisooott etähalit ja pusuutt;)!",
+message: "Mä en nyt pääse sinne sun luokse mut täs on etälahja, eli iiiisooott etähalit ja pusuutt;3🤗🤗😘😘😘❤️❤️❤️❤️!",
 emojis: "💖🤗💝💋❤️💕🥹" // These will bounce around
 },
 
